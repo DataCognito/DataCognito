@@ -48,4 +48,5 @@ The goal is not just to create charts, but to make the information easier to und
 If you have an Excel, CSV or business dataset that needs to be cleaned, analysed or turned into a dashboard, feel free to connect with me.
 
 📧 **Email:** [preethijaya84@gmail.com]
+
 💼 **LinkedIn:** [www.linkedin.com/in/preethi25]
